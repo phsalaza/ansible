@@ -1,0 +1,16 @@
+users:
+  - name: david
+    uid: 1040
+    job: developer
+  
+  - name: natasha
+    uid: 1041
+    job: manager
+  
+  - name: harry
+    uid: 1042
+    job: developer
+
+  - name: sarah
+    uid: 1043
+    job: manager
